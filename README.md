@@ -1,26 +1,26 @@
-# 250609-DEX480
+# 250827-DEX480
 
-Touch point for students of June Mulesoft DataWeave
+Touch point for students of August Mulesoft DataWeave
 
-DEX480 - Anypoiont Development: DataWeave Classroom Reference - 250709 - CDT
+DEX480 - Anypoiont Development: DataWeave Classroom Reference - 250827 - PDT
 
 Vincent Lowe
 vlowe@salesforce.com
 Vincent's Blog: https://techwhine.panreality.com/
 
 -------------------------------------------------------------------------------------------------------------------
-Trailhead Academy:						https://trailheadacademy.salesforce.com/my-learning
+Trailhead Academy:				https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:							ULNL9W
+Attendance Code:				OEHFCL
 
-Salesforce Mimeo:							https://salesforce.mimeo.digital/MuleSoft
+Salesforce Mimeo:				https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:					USNHSNRDSKWJ
+eBook Redemption Key:				US8L3IV21MTX
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:								https://www.research.net/r/trailheadacademy
 
-Survey ID:									TASM-037437
+Survey ID:								TASM-038398
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -57,16 +57,7 @@ Classroom Playlist
 -------------------------------------------------------------------------------------------------------------------
 |Track Title|Artist|Notes|
 |-----------|------|-----|
-|Taxi (theme song)|Bob James||
-|My Walking Stick|Leon Redbone||
-|Analog Hero|Mark Erelliu||
-|Man of Constant Sorrow|Geoff Castellucci||
-|Here We Go Again|Ray Charles (feat. Norah Jones)||
-|The Pickup Truck Song|Jerry Jeff Walker||
-|Smooth Criminal|Luca Stricagnoli|Instrumental cover|
-|It Ain't Over Yet|Rodney Crowell||
-|Final Countdown|Europe||
-|Crazy He Calls Me|Billie Holiday||
+|The City of New Orleans|Arlo Guthrie||
 
 
 
