@@ -58,6 +58,7 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |The City of New Orleans|Arlo Guthrie||
+|My Walking Stick|Leon Redbone||
 
 
 
