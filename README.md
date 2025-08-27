@@ -59,7 +59,7 @@ Classroom Playlist
 |-----------|------|-----|
 |The City of New Orleans|Arlo Guthrie||
 |My Walking Stick|Leon Redbone||
-
+|Analog Hero|Mark Erelli||
 
 
 
