@@ -61,10 +61,10 @@ Classroom Playlist
 |My Walking Stick|Leon Redbone|I really need to get my own horn section!|
 |Analog Hero|Mark Erelli|Mark wrote this about his dad|
 |Stairway to Heaven|Luca Stricagnoli|One man, one guitar, three knecks|
-|The Streetbeater|Quincy Jones|Sanford and Son TV theme|
 |Sixteen Tons|Geoff Castellucci|all voices are Geoff|
 |Feeling Good|Nina Simone||
 |Smooth Criminal|Luca Stricagnoli||
+|Mendocino County Line|Willie Nelson|feat. Lee Ann Womack|
 
 
 
