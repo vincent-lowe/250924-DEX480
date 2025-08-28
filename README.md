@@ -65,6 +65,7 @@ Classroom Playlist
 |Feeling Good|Nina Simone||
 |Smooth Criminal|Luca Stricagnoli||
 |Mendocino County Line|Willie Nelson|feat. Lee Ann Womack|
+|Here We Go Again|Ray Charles and Norah Jones||
 
 
 
