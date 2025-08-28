@@ -62,6 +62,7 @@ Classroom Playlist
 |Analog Hero|Mark Erelli|Mark wrote this about his dad|
 |Stairway to Heaven|Luca Stricagnoli|One man, one guitar, three knecks|
 |Sixteen Tons|Geoff Castellucci|all voices are Geoff|
+|Feeling Good|Nina Simone||
 
 
 
