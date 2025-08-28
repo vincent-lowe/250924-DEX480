@@ -58,9 +58,9 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |The City of New Orleans|Arlo Guthrie||
-|My Walking Stick|Leon Redbone||
-|Analog Hero|Mark Erelli||
-|Stairway to Heaven|Luca Stricagnoli||
+|My Walking Stick|Leon Redbone|I really need to get my own horn section!|
+|Analog Hero|Mark Erelli|Mark wrote this about his dad|
+|Stairway to Heaven|Luca Stricagnoli|One man, one guitar, three knecks|
 |Sixteen Tons|Geoff Castellucci|all voices are Geoff|
 
 
