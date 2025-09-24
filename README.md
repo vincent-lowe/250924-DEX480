@@ -60,7 +60,8 @@ Classroom Playlist
 |Smooth Criminal|Luca Stricagnoli||
 |How Can You Mend a Broken Heart|Al Green||
 |Midnight Train to Georgia|Gladys Knight and the Pips||
-
+|Man of Constant Sorrow|Geoff Castellucci||
+||Sweet Home Alabama|Luca Stricagnoli||
 
 
 
