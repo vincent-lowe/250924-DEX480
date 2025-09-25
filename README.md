@@ -65,7 +65,8 @@ Classroom Playlist
 |Have You Ever Seen the Rain|Willie Nelson|feat. Paula Nelson|
 |The Streetbeater|Quincy Jones||
 |Ain't Misbehavin'|Leon Redbone||
-|The Hitter|Mark Erelli||
+|The Hitter|Mark Erelli|Mark wil tell you he wrote this about his son|
+|The Final Countdown|Europe||
 
 
 
