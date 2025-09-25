@@ -63,7 +63,7 @@ Classroom Playlist
 |Man of Constant Sorrow|Geoff Castellucci||
 |Sweet Home Alabama|Luca Stricagnoli||
 |Have You Ever Seen the Rain|Willie Nelson|feat. Paula Nelson|
-
+|The Streetbeater|Quincy Jones||
 
 
 
