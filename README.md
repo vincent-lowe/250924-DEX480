@@ -61,7 +61,8 @@ Classroom Playlist
 |How Can You Mend a Broken Heart|Al Green||
 |Midnight Train to Georgia|Gladys Knight and the Pips||
 |Man of Constant Sorrow|Geoff Castellucci||
-||Sweet Home Alabama|Luca Stricagnoli||
+|Sweet Home Alabama|Luca Stricagnoli||
+|Have You Ever Seen the Rain|Willie Nelson|feat. Paula Nelson|
 
 
 
